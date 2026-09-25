@@ -26,21 +26,23 @@ I'm developing a foundation in programming through Python and C++ while continui
 
 ## 📌 Featured Projects
 
-### Python Menu Program
+### [Python Menu Program](https://github.com/Jasonl00/python-menu-program)
+
 A menu-driven Python application that allows users to add and remove values, find maximum and minimum values, and sort data in descending order.
 
 **Skills:** Python, loops, conditional logic, collections, sorting, and data manipulation.
 
-### Hotel Billing Program
+### [Hotel Billing Program](https://github.com/Jasonl00/hotel-billing-program)
+
 A C++ console application that calculates the cost of a hotel stay, including room costs, taxes, and gratuity.
 
 **Skills:** C++, user input/output, variables, arithmetic calculations, and program control flow.
 
-### Python Net Salary Calculator
+### [Python Net Salary Calculator](https://github.com/Jasonl00/python-net-salary)
+
 A Python program that calculates federal tax, state tax, and net salary for multiple employees.
 
 **Skills:** Python, for loops, conditional logic, user input, lists, and arithmetic calculations.
-
 ## 🎓 Education
 
 **Santa Monica College**
